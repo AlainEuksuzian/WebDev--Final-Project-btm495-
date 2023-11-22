@@ -1,0 +1,638 @@
+.upper-logo{
+    background-image: url(https://capcium.com/wp-content/uploads/2019/03/hero-image-our-mission.png);
+    height: 450px;
+    text-align: center;
+    margin-left: -0.5%;
+    margin-right: -0.5%;
+    position: relative;
+    bottom:19px;
+    width: 100%;
+    
+}
+
+
+.logo{
+    text-align: left;
+    position: relative;
+    top: 100px;
+}
+
+.line-1{
+    border-style: none;
+    border-top-style: dotted;
+    border-width:5px;
+    width: 100%;
+}
+
+.navBarLoc{
+    position: relative;
+    bottom: 20px;
+}
+
+.image1 {
+    height: 500px;
+    width: 750px;
+    margin-left: 50px;
+    border: 0px solid black;
+}
+
+
+.image2{
+    height: 500px;
+    width: 750px;
+    margin-left: 50px;
+    border: 10px solid rgb(0, 0, 0);
+}
+
+.image3{
+    height: 500px;
+    width: 750px;
+    margin-left: 50px;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+.image4{
+    height: 500px;
+    width: 750px;
+    margin-left: 50px;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+
+.image2{
+    border:2cm;
+    border-color: black;
+}
+
+.footer {
+    text-align:center;
+    font-size: small;
+    font-weight: bold;
+    color:rgb(69, 68, 68);
+}
+
+.course{
+    text-align: center;
+    font-size: medium;
+    font-weight: bolder;
+    color:rgb(69, 68, 68);
+}
+
+.footer-line{
+    border-style:none;
+    border-top-style:dotted;
+    border-color:black;
+    border-width: 5px;
+    width:75%;
+}
+
+.image1, .image2, .image3, .image4 {
+    border-radius: 50px;
+    border-width: 10px;
+    box-shadow: 30px 30px 15px #aaaaaa
+}
+
+/*page 2 about us */
+
+.title{
+    text-align: center;
+}
+
+.table{
+    border: solid;
+    height: 200px;
+    width: 20px;
+    position: relative;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+
+.alain, .farhan{
+    width: 100%;
+    border-radius: 50px;
+}
+
+.aboutUsAlain, .aboutUsFarhan, .aboutUsCaro, .aboutUsJustine, .aboutUsLoric, .aboutUsKim{
+    /*border:solid 2px black;*/
+    width:300px;
+    border-radius: 50px;
+    position: relative;
+    left:50px;
+    border-radius: 50px;
+    border-width: 10px;
+    box-shadow: 30px 30px 15px #aaaaaa;
+}
+
+
+.aboutUsFarhan{
+    position: relative;
+    left:500px;
+    top:110px;
+}
+
+.aboutUsCaro{
+    position:relative;
+    bottom:300px;
+}
+
+.aboutUsJustine{
+    position:relative;
+    left:1000px;
+    bottom:1240px;
+}
+
+.aboutUsLoric{
+    position:relative;
+    bottom:1650px;
+    left:500px;
+
+}
+
+.aboutUsKim{
+    position: relative;
+    left:990px;
+    bottom:1544px;
+   
+}
+
+
+
+.wording{
+    text-align: center;
+}
+
+.loginForm{
+    border: solid;
+    width: 400px;
+    height: 550px;
+    position: relative;
+    background-color: white;
+    border-radius: 50px;
+    border:7px solid black;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-size: 25px;
+    
+}
+
+.innerlogin1{
+    position: relative;
+    top:100px;
+    left: 75px;
+}
+
+.innerlogin2{
+    position: relative;
+    top:120px;
+    left: 75px;
+}
+
+.innerlogin3{
+    position: relative;
+    top:150px;
+    left: 130px;
+}
+
+.logintext{
+    position: relative;
+    left:50px;
+}
+
+.innerlogin4{
+    position: relative;
+    top:30px;
+    right:100px;
+
+}
+
+.textStyle{
+    font-size:xx-large;
+    font-size: 500px;
+    position:relative;
+    font-weight: bold;
+
+}
+
+.loginbox{
+    position:relative;
+    height: 35px;
+    width:250px;
+    top:80px;
+    left:60px;
+    border-radius: 50px;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+.loginbox2{
+    position:relative;
+    height: 35px;
+    width:250px;
+    top:100px;
+    left:60px;
+    border-radius: 50px;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+
+.button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  
+  .button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+  }
+  
+  .button2:hover {
+    background-color: #008CBA;
+    color: white;
+  }
+
+.mainLogo{
+    position: relative;
+    bottom: 1100px;
+    left: 830px;
+}
+
+
+.contactUs{
+    background-color: black;
+    position: relative;
+    left:450px;
+    bottom:250px;
+
+}
+
+.product1{
+    height: 300px;
+    border-radius: 80px;
+}
+
+.product1Explanation{
+    position: relative;
+   left:350px;
+   bottom:200px;
+}
+
+.product1-Title{
+    position:relative;
+    bottom:60px;
+    font-size: x-large;
+    font:bold;
+}
+
+.productOne{
+    position:relative;
+    left:50px;
+    border:solid;
+    border-color: white;
+    border-radius: 50px;
+    box-shadow: 30px 30px 15px #aaaaaa;
+    height: 350px;
+    width: 1500px;
+    border-top: solid 1px rgb(190, 179, 179);
+}
+
+
+.product1Button{
+    position: relative;
+    left:900px;
+    bottom:100px;
+    border-radius: 50px;
+}
+
+
+
+/*nav bar*/
+.aboutUs{
+    text-decoration: none;
+    font-size: x-large;
+    position: relative;
+    bottom:105px;
+    left:1250px;
+    color: white;
+}
+
+.text{
+    color: black;
+    position: relative;
+    bottom:35px;
+    font-size: x-large;
+}
+
+.text:hover{
+    color:white;
+}
+
+.button3{
+    position: relative;
+    left:1550px;
+    border-radius: 50px;
+    bottom: 70px;
+    height: 5px;
+    text-align: center;
+}
+
+.login{
+    background-color: none;
+    height: 150%;
+    position: relative;
+    left: 150px;
+ 
+
+}
+
+.homepage{
+    background-color: none;
+    height: 100%;
+    position: relative;
+    left: 70px;
+    bottom:85px;
+}
+
+
+
+
+.navBar{
+    height: 50px;
+    width: 1730px;
+    background-color: rgb(59, 59, 59);
+}
+.logoNav{
+    color: white;
+    font-size: xx-large;
+    position:relative;
+    top:5px;
+    left:30px;
+}
+
+.signUpButton{
+    color: white;
+    font-size: x-large;
+    position : relative;
+    left:1600px;
+    bottom:85px;
+    text-decoration: none;
+   
+   border-radius: 50px;
+   
+}
+
+.aboutUs:hover {
+    background-color: #008CBA;
+    color: white;
+    border: 2px solid #008CBA;
+    border-radius: 50px;
+    padding: 5px;
+  }
+
+  .cart{
+    height: 45px;
+    background-color: none;
+    position:relative;
+    left:1100px;
+   bottom:87px;
+   border-radius: 50px;
+}
+
+
+.ViewProduct{
+    color: white;
+    position:relative;
+    top:400px;
+    left:80px;
+    font-size: 25px;
+    text-decoration: none;
+
+
+}
+
+.navBar2{
+    height: 1000px;
+    width: 400px;
+    color: black;
+    background-color: rgb(59, 59, 59);
+    position: relative;
+    top: -16px
+
+}
+
+.discoverCap{
+    color: white;
+    position:relative;
+    left:80px;
+    top:250px;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.registerbox{
+    border: solid;
+    background-color: black;
+}
+
+
+.texs{
+    text-align: center;
+    font-size: 30px;
+    border-radius: 50px;
+    box-shadow: 30px 30px 15px #aaaaaa;
+    position: relative;
+    bottom: 30px;
+    
+    
+}
+#grad1 {
+  height: 200px;
+ height: 350px;
+  background-image: 
+linear-gradient(140deg, #EADEDB 0%, #BC70A4 50%, #BFD641 75%);
+}
+
+.banner{
+    position: relative;
+    bottom:20px;
+    height: 100%;
+    
+}
+
+.textBanner{
+    position: relative;
+    text-align: center;
+    bottom:290px;
+    font-size: 50px;
+    color: white;
+}
+
+
+.buttonp {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+  
+  .button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+  }
+  
+  .button1:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+          .banner{
+              position: relative;
+              top:2px;
+              box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);;
+          }
+  
+          .prod1{
+              height: 300px;
+              position: relative;
+              left : 100px;
+              bottom:50px;
+              border-radius: 50px;
+              box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);;
+          }
+  
+          .p1title{
+              position: relative;
+              bottom:400px;
+              left:500px;
+              
+          }
+  
+          .descp1{
+              position: relative;
+              left:450px;
+              bottom:350px
+          }
+  
+  
+          .purchase1{
+              position: relative;
+              left:500px;
+              bottom: 300px;
+          }
+  
+          .purchasebtn{
+              position: relative;
+              left:400px;
+              top: 70px;
+          }
+
+
+.capsPic{
+    border-radius: 50px;
+    height: 800px;
+    position: relative;
+    left: 150px;
+
+}
+
+
+
+.btnLocation{
+    position: relative;
+    left:250px;
+    top: -100px;
+    right: 200px;
+}
+
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+#customers tr:hover {
+    background-color: #ddd;
+}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+
+#customers{
+    width: 500px;
+    position: relative;
+    left:500px;
+    bottom: 400px;
+}
+
+  .zoom:hover {
+  transform: scale(1.13); 
+}
+
+
+.zoom1:hover{
+    transform: scale(1.06);
+}
+
+
+
+/*-------------------*/
+
+
+.customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .customers td, .customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .customers tr:nth-child(even){background-color: #f2f2f2;}
+  
+  .customers tr:hover {background-color: #ddd;}
+  
+  .customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  }
